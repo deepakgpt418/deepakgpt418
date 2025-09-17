@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deepak Gupta - Frontend Developer</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      background: #f4f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #1e293b;
+      color: #fff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.3rem 0;
+      font-size: 1.1rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      border-bottom: 2px solid #1e293b;
+      display: inline-block;
+      padding-bottom: 0.3rem;
+      margin-bottom: 1rem;
+      color: #1e293b;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .skills span {
+      background: #1e293b;
+      color: #fff;
+      padding: 6px 12px;
+      border-radius: 20px;
+      margin: 5px;
+      display: inline-block;
+      font-size: 0.9rem;
+    }
+    footer {
+      background: #1e293b;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Deepak Gupta</h1>
+    <p>Frontend Developer | WordPress | Web Designer</p>
+    <p>📍 Jaunpur, Uttar Pradesh | 📱 8896424147 | ✉️ dg18104@gmail.com</p>
+  </header>
+
+  <div class="container">
+    <section>
+      <h2>Career Objective</h2>
+      <p>
+        As a motivated Fresher in Frontend Development, I am seeking an opportunity 
+        to start my career where I can utilize my knowledge of HTML, CSS, JavaScript, 
+        Bootstrap, jQuery, and WordPress to design and develop responsive and 
+        user-friendly websites. My goal is to contribute effectively to the organization’s 
+        success while continuously learning and enhancing my skills in modern frontend 
+        technologies and web development practices.
+      </p>
+    </section>
+
+    <section>
+      <h2>Educational Qualifications</h2>
+      <ul>
+        <li><strong>BCA</strong> – Dr. C.V. Raman University, Bilaspur, CG – First Class (2016)</li>
+        <li><strong>12th (Intermediate)</strong> – Uttar Pradesh Board – First Class (2013)</li>
+        <li><strong>10th (High School)</strong> – Uttar Pradesh Board – First Class (2011)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <div class="skills">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>Bootstrap</span>
+        <span>JavaScript</span>
+        <span>jQuery</span>
+        <span>WordPress</span>
+        <span>C</span>
+        <span>Java</span>
+        <span>.NET Framework</span>
+        <span>MVC</span>
+        <span>MySQL</span>
+        <span>SQL Server</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <strong>Personal Website – www.formwalasite.com</strong><br>
+          Technology Used: HTML, CSS, JavaScript, WordPress<br>
+          Designed and developed a responsive personal website to highlight my profile, 
+          resume, skills, and contact information.
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Strengths</h2>
+      <ul>
+        <li>Strong logical and analytical thinking</li>
+        <li>Positive attitude and adaptability</li>
+        <li>Quick learner and passionate about new technologies</li>
+        <li>Ability to work independently and in a team</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Personal Details</h2>
+      <ul>
+        <li><strong>Date of Birth:</strong> 06 July 1995</li>
+        <li><strong>Languages:</strong> Hindi, English</li>
+        <li><strong>Nationality:</strong> Indian</li>
+      </ul>
+    </section>
+  </div>
+
+  <footer>
+    <p>© 2025 Deepak Gupta | Digital Resume</p>
+  </footer>
+</body>
+</html>
